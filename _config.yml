@@ -1,11 +1,11 @@
 # Site settings
-author: alexandria branner
-title: 
+author: Alexandria Branner
+title: “Why did I decide to study Software Engineering?”
 header-img: img/home-bg.png
 email: ahartpro87@gmail.com
-copyright_name: alexandria branner
+copyright_name: Alexandria Branner
 description: > # this means to ignore newlines until "baseurl:"
-  
+  New To Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AlexandriaBranner87
